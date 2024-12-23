@@ -49,7 +49,7 @@ Example of a row in `articles.csv`:
 
 | Title                                | Date       | URL                                                         |
 |--------------------------------------|------------|-------------------------------------------------------------|
-| Rockstar2FA Collapse Fuels Expansion of FlowerStorm Phishing-as-a-Service | Dec 23, 2024 | [https://thehackernews.com/2024/12/cisa-cloud-security.html](https://thehackernews.com/2024/12/rockstar2fa-collapse-fuels-expansion-of.html) |
+| Rockstar2FA Collapse Fuels Expansion of FlowerStorm Phishing-as-a-Service | Dec 23, 2024 | https://thehackernews.com/2024/12/rockstar2fa-collapse-fuels-expansion-of.html |
 
 ---
 
