@@ -2,9 +2,11 @@
 
 This project provides a Python-based web scraper to extract articles from The Hacker News website.
 
-## Requirements
+## Prerequisites
 
-- Python 3.12 or higher
+1. Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html) with **Python 3.8**.
+2. Create and activate a new Conda environment.
+3. Install required dependencies using `conda` or `pip`.
 
 ## Installation
 
